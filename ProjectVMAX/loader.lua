@@ -7,3 +7,28 @@ __________                   __               __   ProjectV Hub
                         \______|    \/     \/               
 ]]--
 
+
+
+
+local ID = game.PlaceId
+if ID == 7346416636 then
+    warn("Pop It Trading has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/PopItTrading.lua"))()
+elseif ID == 7903991471 then
+    print("Pet Trading has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/PetsTrading.lua"))()
+elseif ID == 11445923563 then
+    print("One Fruit Simulator has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/OneFruit.lua"))()
+elseif ID == 15367026228 then
+    print("Anime Souls X has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/AnimeSoulsX.lua"))()
+elseif ID == 13885546444 then
+    print("Mowing Simulator has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/MowingSimulator.lua"))()
+elseif ID == 8216162783 then
+    print("Cars Trading has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/CarsTrading.lua"))()
+else
+    print("Unknown PlaceId:", ID)
+end
