@@ -8,6 +8,9 @@ if ID == 7346416636 then
 elseif ID == 13127800756 then
   print("Arm Wrestle has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/ArmWrestle.lua"))()
-  else
+ elseif ID == 16524008257 then
+  print("Anime RNG has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeRNG.lua"))()
+else
     print("Unknown PlaceId:", ID)
 end
