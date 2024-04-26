@@ -17,6 +17,9 @@ elseif ID == 16733754732 then
 elseif ID == 8501406566 then
   print("Legacy Pice has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Legacy-Pice.lua"))()
- else
+ elseif ID == 15049111150 then
+  print("Second Pice has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/SecondPice.lua"))()
     print("Unknown PlaceId:", ID)
+  else
 end
