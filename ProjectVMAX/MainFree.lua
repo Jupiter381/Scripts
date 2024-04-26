@@ -20,6 +20,6 @@ elseif ID == 8501406566 then
  elseif ID == 15049111150 then
   print("Second Pice has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/SecondPice.lua"))()
+else
     print("Unknown PlaceId:", ID)
-  else
 end
