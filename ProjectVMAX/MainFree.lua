@@ -20,6 +20,9 @@ elseif ID == 8501406566 then
  elseif ID == 15049111150 then
   print("Second Pice has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/SecondPice.lua"))()
+elseif ID == 15935482021 then
+  print("Anime Infinity has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Infinity.txt"))()
 else
     print("Unknown PlaceId:", ID)
 end
