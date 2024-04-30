@@ -23,6 +23,9 @@ elseif ID == 8501406566 then
 elseif ID == 15935482021 then
   print("Anime Infinity has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Infinity.txt"))()
+elseif ID == 14426444782 then
+  print("Cursed Sea has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Cursed-Sea"))()
 else
     print("Unknown PlaceId:", ID)
 end
