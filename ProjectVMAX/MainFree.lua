@@ -26,6 +26,9 @@ elseif ID == 15935482021 then
 elseif ID == 14426444782 then
   print("Cursed Sea has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Cursed-Sea"))()
+elseif ID == 205224386 then
+  print("Hide and Seek Extreme has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/HideAndSeekEx"))()
 else
     print("Unknown PlaceId:", ID)
 end
