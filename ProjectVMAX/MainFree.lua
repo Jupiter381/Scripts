@@ -29,6 +29,9 @@ elseif ID == 14426444782 then
 elseif ID == 205224386 then
   print("Hide and Seek Extreme has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/HideAndSeekEx"))()
+elseif ID == 16778527574 then
+  print("Anime Rarities has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Rarities.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
