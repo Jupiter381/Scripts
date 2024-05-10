@@ -23,9 +23,6 @@ elseif ID == 11445923563 then
 elseif ID == 15367026228 then
     print("Anime Souls X has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/AnimeSoulsX.lua"))()
-elseif ID == 13885546444 then
-    print("Mowing Simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/MowingSimulator.lua"))()
 elseif ID == 8216162783 then
     print("Cars Trading has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/Scripts/CarsTrading.lua"))()
