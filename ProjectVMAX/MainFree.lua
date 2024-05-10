@@ -32,6 +32,9 @@ elseif ID == 205224386 then
 elseif ID == 16778527574 then
   print("Anime Rarities has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Rarities.lua"))()
+elseif ID == 17298589168 then
+  print("Aura Craft has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Aura-Craft.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
