@@ -35,6 +35,9 @@ elseif ID == 16778527574 then
 elseif ID == 17298589168 then
   print("Aura Craft has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Aura-Craft.lua"))()
+elseif ID == 14206055326 then
+  print("Rogue Ninja has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Rogue-Ninja.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
