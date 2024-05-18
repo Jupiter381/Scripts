@@ -38,6 +38,9 @@ elseif ID == 17298589168 then
 elseif ID == 14206055326 then
   print("Rogue Ninja has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Rogue-Ninja.lua"))()
+elseif ID == 4520749081 then
+  print("King Legacy has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/King-Legacy.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
