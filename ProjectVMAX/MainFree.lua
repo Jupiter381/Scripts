@@ -41,6 +41,9 @@ elseif ID == 14206055326 then
 elseif ID == 4520749081 then
   print("King Legacy has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/King-Legacy.lua"))()
+elseif ID == 17348055576 then
+  print("Gyatts Simulator has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Gyatts-Simulator.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
