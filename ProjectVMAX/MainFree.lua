@@ -47,6 +47,9 @@ elseif ID == 17348055576 then
 elseif ID == 13827198708 then
   print("Pull a Sword has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Pull-a-Sword.lua"))()
-else
+elseif ID == 16981421605 then
+  print("Reborn As Swordman has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Reborn-As-Swordman.lua"))()
+ else
     print("Unknown PlaceId:", ID)
 end
