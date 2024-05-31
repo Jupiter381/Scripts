@@ -44,6 +44,9 @@ elseif ID == 4520749081 then
 elseif ID == 17348055576 then
   print("Gyatts Simulator has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Gyatts-Simulator.lua"))()
+elseif ID == 13827198708 then
+  print("Pull a Sword has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Pull-a-Sword.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
