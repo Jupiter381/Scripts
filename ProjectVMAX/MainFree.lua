@@ -50,6 +50,9 @@ elseif ID == 13827198708 then
 elseif ID == 16981421605 then
   print("Reborn As Swordman has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Reborn-As-Swordman.lua"))()
- else
+ elseif ID == 17250334236 then
+  print("Magic RNG has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/MagicRNG.lua"))()
+else
     print("Unknown PlaceId:", ID)
 end
