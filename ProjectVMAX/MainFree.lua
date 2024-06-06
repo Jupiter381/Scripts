@@ -53,6 +53,9 @@ elseif ID == 16981421605 then
  elseif ID == 17250334236 then
   print("Magic RNG has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/MagicRNG.lua"))()
+elseif ID == 15744137588 then
+  print("1+ Blade Slayer has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/1%2BBladeSlayer.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
