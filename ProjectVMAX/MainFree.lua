@@ -59,6 +59,9 @@ elseif ID == 15744137588 then
 elseif ID == 6897167394 then
   print("FRUIT SEA has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/FruitSea.lua"))()
+elseif ID == 15800803561 then
+  print("Egg Empire has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/EggEMPIRE.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
