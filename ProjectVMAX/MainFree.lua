@@ -62,6 +62,9 @@ elseif ID == 6897167394 then
 elseif ID == 15800803561 then
   print("Egg Empire has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/EggEMPIRE.lua"))()
+elseif ID == 17071071586 then
+  print("Monkey Arena has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Monkey-Arena.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
