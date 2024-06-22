@@ -65,6 +65,9 @@ elseif ID == 15800803561 then
 elseif ID == 17071071586 then
   print("Monkey Arena has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Monkey-Arena.lua"))()
+elseif ID == 14236123211 then
+  print("Punching Simulator has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/PunchSimulator.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
