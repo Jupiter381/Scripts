@@ -71,6 +71,9 @@ elseif ID == 14236123211 then
 elseif ID == 15395018036 then
   print("Bow Simulator has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/BowSimulator.lua"))()
+elseif ID == 17534163435 then
+  print("Dungeon RNGA has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/DungeonRNG.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
