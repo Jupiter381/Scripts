@@ -80,6 +80,9 @@ elseif ID == 17334603733 then
 elseif ID == 18106735244 then
   print("Gigachad simulator has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Gigachad-Simulator.lua"))()
+elseif ID == 18213102218 then
+  print("Titan Training Simulator has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/TitantrainSim.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
