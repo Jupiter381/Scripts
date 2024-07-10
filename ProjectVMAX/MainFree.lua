@@ -77,6 +77,9 @@ elseif ID == 17534163435 then
 elseif ID == 17334603733 then
   print("Saber fighting simulator has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Saber-Fighting-Simulator.lua"))()
+elseif ID == 18106735244 then
+  print("Gigachad simulator has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Gigachad-Simulator.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
