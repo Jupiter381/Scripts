@@ -86,6 +86,9 @@ elseif ID == 18213102218 then
 elseif ID == 18401171146 then
   print("Anime Strike Simulator has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeStrikeSimulator.lua"))()
+elseif ID == 15014439457 then
+  print("Demon Blade has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/DemonBlade.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
