@@ -89,6 +89,9 @@ elseif ID == 18401171146 then
 elseif ID == 15014439457 then
   print("Demon Blade has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/DemonBlade.lua"))()
+elseif ID == 18337464872 then
+  print("Weak Legacy 2 has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/WeakLegacy.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
