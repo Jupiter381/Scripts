@@ -98,6 +98,9 @@ elseif ID == 17847295790 then
 elseif ID == 15230308693 then
   print("Slime Slaying RPG Simulator has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Slime-Slaying-RPG.lua"))()
+elseif ID == 18138547215 then
+  print("Anime Card Battle Simulator has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeCardBattles.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
