@@ -101,6 +101,9 @@ elseif ID == 15230308693 then
 elseif ID == 18138547215 then
   print("Anime Card Battle Simulator has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeCardBattles.lua"))()
+elseif ID == 17316900493 then
+  print("Anime Simulator Release has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeSimulatorRelease.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
