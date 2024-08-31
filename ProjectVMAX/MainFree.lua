@@ -110,6 +110,9 @@ elseif ID == 17823719213 then
 elseif ID == 17563609570 then
   print("Dragon Ball RNG has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/DragonBallRNG.lua"))()
+elseif ID == 18787473127 then
+  print("Anime Blast Simulator has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Blast.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
