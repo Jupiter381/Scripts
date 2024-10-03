@@ -116,6 +116,9 @@ elseif ID == 18787473127 then
 elseif ID == 137461040918786 then
   print("Anime Training RNG has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/Anime-Traning-RNG.lua"))()
+elseif ID == 17281418694 then
+  print("Lost Souls has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/LostSouls.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
