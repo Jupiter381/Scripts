@@ -119,6 +119,9 @@ elseif ID == 137461040918786 then
 elseif ID == 17281418694 then
   print("Lost Souls has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/LostSouls.lua"))()
+elseif ID == 75972208642796 then
+  print("Jood Pice 2 has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/JoodPice2.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
