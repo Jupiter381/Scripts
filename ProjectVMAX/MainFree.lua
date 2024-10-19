@@ -1,7 +1,7 @@
 -- Free Loader
-
-
 local ID = game.PlaceId
+
+
 if ID == 7346416636 then
    print("Pop It Trading free has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/PopItTrading.lua"))()
@@ -126,5 +126,5 @@ elseif ID == 94801184757522 then
   print("Jujutsu Pice has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/Jujutsu%20Pice.lua"))()
 else
-    print("Unknown PlaceId:", ID)
+    warn("This Game is Not Supported Or Has been Removed.")
 end
