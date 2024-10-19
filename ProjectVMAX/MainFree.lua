@@ -122,6 +122,9 @@ elseif ID == 75972208642796 then
 elseif ID == 11756036029 then
   print("Anime Spirits has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/Anime-Spirits.lua"))()
+elseif ID == 94801184757522 then
+  print("Jujutsu Pice has been Loaded!")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/Jujutsu%20Pice.lua"))()
 else
     print("Unknown PlaceId:", ID)
 end
