@@ -1,130 +1,56 @@
--- Free Loader
-local ID = game.PlaceId
-local Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/x9PSwiftz/Panda/main/Notification.lua"))()
+ -- [ PROJECT V - SCRIPTS ] --
 
-if ID == 7346416636 then
-   print("Pop It Trading free has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/PopItTrading.lua"))()
-elseif ID == 13127800756 then
-  print("Arm Wrestle has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/ArmWrestle.lua"))()
- elseif ID == 16524008257 then
-  print("Anime RNG has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeRNG.lua"))()
-elseif ID == 16733754732 then
-  print("Anime Islands has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Island.lua"))()
-elseif ID == 8501406566 then
-  print("Legacy Pice has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Legacy-Pice.lua"))()
- elseif ID == 15049111150 then
-  print("Second Pice has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/SecondPice.lua"))()
-elseif ID == 15935482021 then
-  print("Anime Infinity has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Infinity.txt"))()
-elseif ID == 14426444782 then
-  print("Cursed Sea has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Cursed-Sea"))()
-elseif ID == 205224386 then
-  print("Hide and Seek Extreme has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/HideAndSeekEx"))()
-elseif ID == 16778527574 then
-  print("Anime Rarities has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Rarities.lua"))()
-elseif ID == 17298589168 then
-  print("Aura Craft has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Aura-Craft.lua"))()
-elseif ID == 14206055326 then
-  print("Rogue Ninja has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Rogue-Ninja.lua"))()
-elseif ID == 4520749081 then
-  print("King Legacy has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/King-Legacy.lua"))()
-elseif ID == 17348055576 then
-  print("Gyatts Simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Gyatts-Simulator.lua"))()
-elseif ID == 13827198708 then
-  print("Pull a Sword has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Pull-a-Sword.lua"))()
-elseif ID == 16981421605 then
-  print("Reborn As Swordman has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Reborn-As-Swordman.lua"))()
- elseif ID == 17250334236 then
-  print("Magic RNG has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/MagicRNG.lua"))()
-elseif ID == 15744137588 then
-  print("1+ Blade Slayer has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/1%2BBladeSlayer.lua"))()
-elseif ID == 6897167394 then
-  print("FRUIT SEA has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/FruitSea.lua"))()
-elseif ID == 15800803561 then
-  print("Egg Empire has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/EggEMPIRE.lua"))()
-elseif ID == 17071071586 then
-  print("Monkey Arena has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Monkey-Arena.lua"))()
-elseif ID == 14236123211 then
-  print("Punching Simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/PunchSimulator.lua"))()
-elseif ID == 15395018036 then
-  print("Bow Simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/BowSimulator.lua"))()
-elseif ID == 17534163435 then
-  print("Dungeon RNG has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/DungeonRNG.lua"))()
-elseif ID == 17334603733 then
-  print("Saber fighting simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Saber-Fighting-Simulator.lua"))()
-elseif ID == 18106735244 then
-  print("Gigachad simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Gigachad-Simulator.lua"))()
-elseif ID == 18213102218 then
-  print("Titan Training Simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/TitantrainSim.lua"))()
-elseif ID == 15014439457 then
-  print("Demon Blade has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/DemonBlade.lua"))()
-elseif ID == 18337464872 then
-  print("Weak Legacy 2 has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/WeakLegacy.lua"))()
-elseif ID == 17847295790 then
-  print("Anime Ascensions has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Ascensions.lua"))()
-elseif ID == 15230308693 then
-  print("Slime Slaying RPG Simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Slime-Slaying-RPG.lua"))()
-elseif ID == 18138547215 then
-  print("Anime Card Battle Simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeCardBattles.lua"))()
-elseif ID == 17316900493 then
-  print("Anime Simulator Release has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeSimulatorRelease.lua"))()
-elseif ID == 17823719213 then
-  print("Anime League Release has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/AnimeLeague.lua"))()
-elseif ID == 17563609570 then
-  print("Dragon Ball RNG has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/DragonBallRNG.lua"))()
-elseif ID == 18787473127 then
-  print("Anime Blast Simulator has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/Anime-Blast.lua"))()
-elseif ID == 137461040918786 then
-  print("Anime Training RNG has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/Anime-Traning-RNG.lua"))()
-elseif ID == 17281418694 then
-  print("Lost Souls has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/LostSouls.lua"))()
-elseif ID == 75972208642796 then
-  print("Jood Pice 2 has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/JoodPice2.lua"))()
-elseif ID == 11756036029 then
-  print("Anime Spirits has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/Anime-Spirits.lua"))()
-elseif ID == 94801184757522 then
-  print("Jujutsu Pice has been Loaded!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/Jujutsu%20Pice.lua"))()
-else
-    Notify.New("Game Is Not Supported", 1)
+ local Place = game.PlaceId
+ local GameName = game:GetService("MarketplaceService"):GetProductInfo(Place).Name
+ local MainURL = "https://raw.githubusercontent.com/Vmax0/RobloxScripts/main/FreeScript/"
+ local Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/x9PSwiftz/Panda/main/Notification.lua"))()
+
+   -- [ Table ] --
+   local Configuration = {
+        [7346416636] = "PopItTrading.lua",
+        [13127800756] = "ArmWrestle.lua",
+        [16524008257] = "AnimeRNG.lua",
+        [16733754732] = "Anime-Island.lua",
+        [8501406566] = "Legacy-Pice.lua",
+        [15049111150] = "SecondPice.lua",
+        [15935482021] = "Anime-Infinity.lua",
+        [14426444782] = "Cursed-Sea.lua",
+        [205224386] = "HideAndSeekEx.lua",
+        [16778527574] = "Anime-Rarities.lua",
+        [17298589168] = "Aura-Craft.lua",
+        [14206055326] = "Rogue-Ninja.lua",
+        [4520749081] = "King-Legacy.lua",
+        [17348055576] = "Gyatts-Simulator.lua",
+        [13827198708] = "Pull-a-Sword.lua",
+        [16981421605] = "Reborn-As-Swordman.lua",
+        [15744137588] = "BladeSlayer.lua",
+        [6897167394] = "FruitSea.lua",
+        [15800803561] = "EggEMPIRE.lua",
+        [17071071586] = "Monkey-Arena.lua",
+        [14236123211] = "PunchSimulator.lua",
+        [15395018036] = "BowSimulator.lua",
+        [17534163435] = "DungeonRNG.lua",
+        [17334603733] = "Saber-Fighting-Simulator.lua",
+        [15014439457] = "DemonBlade.lua",
+        [18337464872] = "WeakLegacy.lua",
+        [17847295790] = "Anime-Ascensions.lua",
+        [15230308693] = "Slime-Slaying-RPG.lua",
+        [18138547215] = "AnimeCardBattles.lua",
+        [17316900493] = "AnimeSimulatorRelease.lua",
+        [17823719213] = "AnimeLeague.lua",
+        [17563609570] = "DragonBallRNG.lua",
+        [18787473127] = "Anime-Blast.lua",
+        [137461040918786] = "Anime-Traning-RNG.lua",
+        [17281418694] = "LostSouls.lua",
+        [75972208642796] = "JoodPice2.lua",
+        [11756036029] = "Anime-Spirits.lua",
+        [94801184757522] = "Jujutsu-Pice.lua"
+    }
+
+    local scriptTable = Configuration[Place]
+    if scriptTable then
+        warn(GameName)
+        loadstring(game:HttpGet(MainURL .. scriptTable))()
+    else
+        Notify.New("Game Is Not Supported.", 1)
 end
