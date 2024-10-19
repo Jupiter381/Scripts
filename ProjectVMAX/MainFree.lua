@@ -1,6 +1,6 @@
 -- Free Loader
 local ID = game.PlaceId
-
+local Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/x9PSwiftz/Panda/main/Notification.lua"))()
 
 if ID == 7346416636 then
    print("Pop It Trading free has been Loaded!")
@@ -126,5 +126,5 @@ elseif ID == 94801184757522 then
   print("Jujutsu Pice has been Loaded!")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vmax0/RobloxScripts/refs/heads/main/FreeScript/Jujutsu%20Pice.lua"))()
 else
-    warn("This Game is Not Supported Or Has been Removed.")
+    Notify.New("Game Is Not Supported", 1)
 end
