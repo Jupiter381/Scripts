@@ -44,7 +44,7 @@
         [17281418694] = "LostSouls.lua",
         [75972208642796] = "JoodPice2.lua",
         [11756036029] = "Anime-Spirits.lua",
-        [94801184757522] = "Jujutsu-Pice.lua"
+        [94801184757522] = "Jujutsu-Pice.lua",
         [95295765150201] = "RockFruit.lua"
     }
 
