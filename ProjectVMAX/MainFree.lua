@@ -46,6 +46,7 @@
         [11756036029] = "Anime-Spirits.lua",
         [94801184757522] = "Jujutsu-Pice.lua",
         [95295765150201] = "RockFruit.lua"
+        [84188796720288] = "Anime-Realms.lua"
     }
 
     local scriptTable = Configuration[Place]
