@@ -1,4 +1,4 @@
- -- [ PROJECT V - SCRIPTS ] --
+ -- [ BEE HUB - SCRIPTS ] --
 
  local Place = game.PlaceId
  local GameName = game:GetService("MarketplaceService"):GetProductInfo(Place).Name
